@@ -1,0 +1,52 @@
+{
+    "blogs": [
+        {
+            "id": "234567",
+            "title": "The maze is in the mouse",
+            "subtitle": "life in Google",
+            "img": "https://images.kinorium.com/movie/shot/416869/w1500_429354.jpg",
+            "body": "I joined Google just before the pandemic when the company I had co-founded, AppSheet, was acquired by Google Cloud. The acquiring team and executives welcomed us and treated us well. We joined with great enthusiasm and commitment to integrate AppSheet into Google and make it a success. Yet, now at the expiry of my three year mandatory retention period, I have left Google understanding how a once-great company has slowly ceased to function. Google has 175,000+ capable and well-compensated employees who get very little done quarter over quarter, year over year. Like mice, they are trapped in a maze of approvals, launch processes, legal reviews, performance reviews, exec reviews, documents, meetings, bug reports, triage, OKRs, H1 plans followed by H2 plans, all-hands summits, and inevitable reorgs. The mice are regularly fed their “cheese” (promotions, bonuses, fancy food, fancier perks) and despite many wanting to experience personal satisfaction and impact from their work, the system trains them to quell these inappropriate desires and learn what it actually means to be “Googley” — just don’t rock the boat. As Deepak Malhotra put it in his excellent business fable, at some point the problem is no longer that the mouse is in a maze. The problem is that “the maze is in the mouse”.",
+            "likes": ["shubham", "shubham1", "shubham2"]
+        },
+        {
+            "id": "345678",
+            "title": "Blog2",
+            "sub-title": "life in Google",
+            "img": "https://avatars.mds.yandex.net/i?id=39908b99029017911bedf6a8301c4a42df7ea699-5235953-images-thumbs&n=13&exp=1",
+            "body": "this is image description",
+            "likes": ["shubham", "shubham1", "shubham2"]
+        }
+    ],
+    "comments": [
+        {
+            "id" : "234567",
+            "comments": [
+                {"shubham": "this is shubham first comment", "time": "time", "date": "date", "id": 123456},
+                {"shubham1": "this is shubham1 first comment", "time": "time", "date": "date", "id": 987654},
+                {"shubham2": "this is shubham2 first comment", "time": "time", "date": "date", "id": 456789},
+                {"shubham1": "this is shubham1 second comment", "time": "time", "date": "date", "id": 567890},
+                {"shubham2": "this is shubham2 second comment", "time": "time", "date": "date", "id": 234567},
+                {"shubham2": "this is shubham2 third comment", "time": "time", "date": "date", "id": 789012},
+                {"shubham2": "this is shubham2 fourth comment", "time": "time", "date": "date", "id": 345678},
+                {"shubham": "this is shubham second comment", "time": "time", "date": "date", "id": 901234},
+                {"shubham": "this is shubham third comment", "time": "time", "date": "date", "id": 678901},
+                {"shubham": "this is shubham fourth comment", "time": "time", "date": "date", "id": 123789}
+            ]
+        },
+        {
+            "id" : "345678",
+            "comments": [
+                {"shubham": "this is shubham first comment", "time": "time", "date": "date", "id": 123456},
+                {"shubham1": "this is shubham1 first comment", "time": "time", "date": "date", "id": 987654},
+                {"shubham2": "this is shubham2 first comment", "time": "time", "date": "date", "id": 456789},
+                {"shubham1": "this is shubham1 second comment", "time": "time", "date": "date", "id": 567890},
+                {"shubham2": "this is shubham2 second comment", "time": "time", "date": "date", "id": 234567},
+                {"shubham2": "this is shubham2 third comment", "time": "time", "date": "date", "id": 789012},
+                {"shubham2": "this is shubham2 fourth comment", "time": "time", "date": "date", "id": 345678},
+                {"shubham": "this is shubham second comment", "time": "time", "date": "date", "id": 901234},
+                {"shubham": "this is shubham third comment", "time": "time", "date": "date", "id": 678901},
+                {"shubham": "this is shubham fourth comment", "time": "time", "date": "date", "id": 123789}
+            ]
+        }
+    ]
+}
